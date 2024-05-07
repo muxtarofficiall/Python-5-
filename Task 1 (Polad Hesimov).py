@@ -9,7 +9,7 @@ class Qəhraman:
         self.yaş = yaş
         
     def defn(self):
-        return f"- {self.ad} {self.soyad} - II Fəxri Xyabamda dəfn olunmuşdur"
+        return f"- {self.ad} {self.soyad} - II Fəxri Xyabanda dəfn olunmuşdur"
 
 #obyekt
 Milli_Qəhraman = Qəhraman("Polkovnik Leytinant", "Polad", "Həşimov", 47)
